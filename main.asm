@@ -525,6 +525,11 @@ SECTION "mobile46", ROMX
 INCLUDE "mobile/mobile_46.asm"
 
 
+SECTION "mobile46 2", ROMX
+
+INCLUDE "mobile/mobile_46_2.asm"
+
+
 SECTION "Battle Tower", ROMX
 
 INCLUDE "engine/events/battle_tower/trainer_text.asm"

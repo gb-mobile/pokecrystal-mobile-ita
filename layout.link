@@ -321,6 +321,7 @@ ROMX $7d
 	"Currency Finder"
 ROMX $7e
 	"Crystal Events"
+	"mobile46 2"
 ROMX $7f
 	org $7de0
 	"Stadium 2 Checksums"
